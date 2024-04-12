@@ -1,0 +1,20 @@
+* Application.
+	1.- Path:
+		C:\MAASoft\APIRest\API_Multiple\venv\Scripts
+
+	2.- Startup subdirectory:
+		C:\MAASoft\APIRest\API_Multiple
+
+	3.- Arguments:
+		main:app
+		main:app --host 192.168.10.5 --port 8000 --reload
+
+* Details.
+	1.- Display name:
+		WebAPI_Multiple
+	
+	2.- Description:
+		Servicio WebAPI_Multiple
+	
+	3.- Startup type:
+		Automatic

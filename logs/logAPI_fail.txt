@@ -1,0 +1,1 @@
+2024-04-05 16:25:06.147986 => El movimiento NO se registró: CUIT: 2055555556, NumeroCuenta: 205005, CodigoMovimiento: MOVIMIENTO prueba mutual 222020202, TipoMovimiento: C, NumeroMovimiento: 20050, FechaMovimiento2024-04-05 14:33:16, Importe: 3000.0

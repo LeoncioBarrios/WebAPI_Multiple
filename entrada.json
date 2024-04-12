@@ -1,0 +1,9 @@
+{
+	"CuitMutual": 2055555555,
+	"NumeroCuenta": 1234567,
+	"CodigoMovimiento": "100",
+	"TipoMovimiento": "C",
+	"NumeroMovimiento": 123456,
+	"FechaMovimiento": "2018-08-23T15:30:16",
+	"Importe": 100.12
+}
